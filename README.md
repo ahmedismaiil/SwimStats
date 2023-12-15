@@ -1,6 +1,6 @@
 # SwimStats
 
-# Application Overview: SwimStats, 
+# Application Overview: 
 our dedicated platform tailored for swimmers. This means you have the flexibility to utilize SwimStats to document and track your event times and dates with ease. 
 
 # Technology Overview: 
