@@ -1,7 +1,7 @@
 # SwimStats
 
 # Application Overview: SwimStats, 
-our dedicated platform tailored for swimmers. This means you have the flexibility to utilize SwimStats to document and track your event times and dates with ease. Dive in, and start showcasing your swim achievements on your personalized SwimStats website!
+our dedicated platform tailored for swimmers. This means you have the flexibility to utilize SwimStats to document and track your event times and dates with ease. 
 
 # Technology Overview: 
 languages: HTML, CSS and JS
